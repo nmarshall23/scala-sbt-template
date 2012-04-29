@@ -1,13 +1,13 @@
 // set the name of the project
-name := "Scala SBT Template"
+name := "My example"
 
 version := "0.1.0"
 
-scalaVersion := "2.9.1"
+scalaVersion := "2.9.2"
 
-organization := "com.damianhelme"
+organization := "com.gmail.nmarshall23"
 
-mainClass := Some("com.damianhelme.App")
+mainClass := Some("com.gmail.nmarshall23.App")
  
 libraryDependencies ++= {
   	Seq(

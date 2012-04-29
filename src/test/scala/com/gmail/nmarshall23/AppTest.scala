@@ -1,4 +1,4 @@
-package com.damianhelme
+package com.gmail.nmarshall23
 import org.scalatest.FunSuite
 import org.scalatest.FeatureSpec
  class AppTest extends FunSuite {
